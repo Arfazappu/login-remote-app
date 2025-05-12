@@ -3,7 +3,7 @@ const currentImports = {};
       let moduleMap = {
 "./Login":()=>{
       dynamicLoadingCss(["style-6eT81ULQ.css"], false, './Login');
-      return __federation_import('./__federation_expose_Login-gWimar-O.js').then(module =>Object.keys(module).every(item => exportSet.has(item)) ? () => module.default : () => module)},};
+      return __federation_import('/login-app/assets/__federation_expose_Login-BciR0gFf.js').then(module =>Object.keys(module).every(item => exportSet.has(item)) ? () => module.default : () => module)},};
       const seen = {};
       const dynamicLoadingCss = (cssFilePaths, dontAppendStylesToHead, exposeItemName) => {
         const metaUrl = import.meta.url;
@@ -13,7 +13,7 @@ const currentImports = {};
         }
 
         const curUrl = metaUrl.substring(0, metaUrl.lastIndexOf('remoteEntry.js'));
-        const base = '/';
+        const base = '/login-app/';
         'assets';
 
         cssFilePaths.forEach(cssPath => {

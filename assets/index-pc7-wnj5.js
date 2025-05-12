@@ -1,4 +1,4 @@
-import { j as jsxRuntimeExports } from './__federation_expose_Login-gWimar-O.js';
+import { j as jsxRuntimeExports } from './__federation_expose_Login-BciR0gFf.js';
 import { r as requireReact } from './index-DUwCgkeV.js';
 import { r as requireReactDom } from './index-Dl6QBmMQ.js';
 import { importShared } from './__federation_fn_import-F6uRRWkM.js';
